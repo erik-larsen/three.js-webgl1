@@ -1,4 +1,4 @@
-# three.js
+# three.js webgl1
 
 [![NPM Package][npm]][npm-url]
 [![Build Size][build-size]][build-size-url]
