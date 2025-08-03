@@ -6,6 +6,10 @@
 [![DeepScan][deepscan]][deepscan-url]
 [![Discord][discord]][discord-url]
 
+#### WebGL1 fork
+
+This fork just serves the last WebGL 1 version of three.js at [github.io](https://erik-larsen.github.io/three.js-webgl1/examples/index.html). Useful for testing 3D hardware acceleration on virtual machines.
+
 #### JavaScript 3D library
 
 The aim of the project is to create an easy-to-use, lightweight, cross-browser, general-purpose 3D library. The current builds only include WebGL and WebGPU renderers but SVG and CSS3D renderers are also available as addons.
