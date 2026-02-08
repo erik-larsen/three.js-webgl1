@@ -1,5 +1,5 @@
 {
-	"webgl": [
+	"webgl1": [
 		"webgl_animation_keyframes",
 		"webgl_animation_skinning_blending",
 		"webgl_animation_skinning_additive_blending",
@@ -215,7 +215,7 @@
 		"webgl_water",
 		"webgl_water_flowmap"
 	],
-	"webgl / postprocessing": [
+	"webgl1 / postprocessing": [
 		"webgl_postprocessing",
 		"webgl_postprocessing_3dlut",
 		"webgl_postprocessing_advanced",
@@ -244,7 +244,7 @@
 		"webgl_postprocessing_unreal_bloom",
 		"webgl_postprocessing_unreal_bloom_selective"
 	],
-	"webgl / advanced": [
+	"webgl1 / advanced": [
 		"webgl_buffergeometry",
 		"webgl_buffergeometry_attributes_integer",
 		"webgl_buffergeometry_attributes_none",
