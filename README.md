@@ -1,12 +1,6 @@
 # three.js webgl1
 
-[![NPM Package][npm]][npm-url]
-[![Build Size][build-size]][build-size-url]
-[![NPM Downloads][npm-downloads]][npmtrends-url]
-[![DeepScan][deepscan]][deepscan-url]
-[![Discord][discord]][discord-url]
-
-#### WebGL1 fork
+#### Fork of last WebGL1 version of three.js
 
 This fork just serves the last WebGL 1 version of three.js at [github.io](https://erik-larsen.github.io/three.js-webgl1/examples/index.html). Useful for testing 3D hardware acceleration on virtual machines, and older 3D hardware.
 
