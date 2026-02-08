@@ -8,7 +8,7 @@
 
 #### WebGL1 fork
 
-This fork just serves the last WebGL 1 version of three.js at [github.io](https://erik-larsen.github.io/three.js-webgl1/examples/index.html). Useful for testing 3D hardware acceleration on virtual machines.
+This fork just serves the last WebGL 1 version of three.js at [github.io](https://erik-larsen.github.io/three.js-webgl1/examples/index.html). Useful for testing 3D hardware acceleration on virtual machines, and older 3D hardware.
 
 #### JavaScript 3D library
 
